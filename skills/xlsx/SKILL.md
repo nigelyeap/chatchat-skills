@@ -1,9 +1,12 @@
 ---
 id: xlsx
-category: Content & Media
 name: XLSX
 description: Step-by-step guidance for xlsx.
-license: Proprietary. LICENSE.txt has complete terms
+category: Business
+requires: []
+examples:
+  - "Create a clean Excel model with assumptions (blue) and formulas (black) and ensure there are zero formula errors"
+  - "Audit this .xlsx for #REF!/#DIV/0! errors and fix the formulas while preserving formatting"
 ---
 
 # Requirements for Outputs

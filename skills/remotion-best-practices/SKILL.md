@@ -1,10 +1,12 @@
 ---
-category: Content & Media
 id: remotion-best-practices
 name: Remotion Best Practices
 description: Best practices for Remotion - Video creation in React.
-metadata:
-  tags: remotion, video, react, animation, composition
+category: Development
+requires: []
+examples:
+  - "I'm working on a Remotion video in React—what are best practices for compositions, sequencing, and assets?"
+  - "How should I handle captions/subtitles and audio timing in a Remotion project?"
 ---
 
 ## When to use

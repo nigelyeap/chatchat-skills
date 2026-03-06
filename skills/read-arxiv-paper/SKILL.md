@@ -1,8 +1,12 @@
 ---
-category: Content & Media
 id: read-arxiv-paper
 name: Read Arxiv Paper
 description: Use this skill when when asked to read an arxiv paper given an arxiv URL.
+category: Research
+requires: []
+examples:
+  - "Read and summarize this arXiv paper: https://arxiv.org/abs/2601.07372"
+  - "Download the TeX source for https://arxiv.org/abs/2601.07372 and explain the key idea and contributions"
 ---
 
 You will be given a URL of an arxiv paper, for example:
