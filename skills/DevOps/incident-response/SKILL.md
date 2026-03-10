@@ -102,8 +102,8 @@ Focus on systems and process, not individuals. Assign owners to every action ite
 - Status page updated: <yes/no>
 
 ## Timeline (key events)
-- <time> ΓÇö <event>
-- <time> ΓÇö <event>
+- <time>: <event>
+- <time>: <event>
 
 ## Handoff (if shifting)
 - Current state: <summary>
