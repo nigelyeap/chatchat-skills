@@ -73,8 +73,8 @@ Coordinate complex DevOps work by decomposing tasks into subagent workflows.
 | B    | <scope> | <list> | <list> | <verification> |
 
 ## Dependency Graph
-A ----\
-B ----+--> C
+A --> C
+B --> C
 (Parallel: A, B. Sequential: C after A and B.)
 
 ## Coordination Plan
